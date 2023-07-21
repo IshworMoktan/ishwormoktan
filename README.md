@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Restromate**
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Mobile app development**
 
 - 📫 How to reach me **ishwortamang980@gmail.com**
 
