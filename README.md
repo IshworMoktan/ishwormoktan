@@ -15,10 +15,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ishwor moktan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishwor moktan" height="30" width="40" /></a>
-<a href="https://fb.com/ishwor moktan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ishwor moktan" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/ishwor moktan](https://www.linkedin.com/in/ishwor-moktan-a6922019b/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishwor moktan" height="30" width="40" /></a>
+<a href="[https://fb.com/ishwor moktan](https://www.facebook.com/Deceibhra/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Ishwor Moktan" height="30" width="40" /></a>
 <a href="https://instagram.com/_m_o_k_t_a_n_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_m_o_k_t_a_n_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ishwormoktan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ishwormoktan" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/c/ishwormoktan](https://www.youtube.com/channel/UCNVDOrPFl3fQ5-v5Tt_DikQ)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ishwormoktan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
