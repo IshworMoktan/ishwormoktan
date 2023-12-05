@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **GreenScan**
+- 🔭 I’m currently working on **Hamro TOPIK Test (Side hustle)**
 
 - 🌱 I’m currently learning **Swift**
 
