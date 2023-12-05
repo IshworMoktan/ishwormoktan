@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Swift**
 
-- 👯 I’m looking to collaborate on **Restromate**
+- 👯 I’m looking to collaborate on **Hamro TOPIK Test**
 
 - 💬 Ask me about **Mobile app development**
 
