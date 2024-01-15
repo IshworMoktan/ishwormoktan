@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ishwor Tamang</h1>
-<h3 align="center">A passionate Mobile application developer from Nepal</h3>
+<h3 align="center">A passionate software developer from Nepal</h3>
 
 
 
 - 🔭 I’m currently working on **Hamro TOPIK Test (Side hustle)**
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently learning **AWS**
 
 - 👯 I’m looking to collaborate on **Hamro TOPIK Test**
 
